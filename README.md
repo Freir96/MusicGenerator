@@ -10,6 +10,8 @@ This project allows you to train a neural network to generate midi music files t
 	* Keras
 	* Tensorflow
 	* h5py
+## Based on
+https://github.com/Skuldur/Classical-Piano-Composer
 
 ## Training
 
